@@ -48,7 +48,7 @@
     "expo-manifests": "~0.14.0",
     "expo-structured-headers": "~3.8.0",
     "expo-updates-interface": "~0.16.2",
-    "fast-glob": "^3.3.2",
+    "fast-glob": "^3.3.3",
     "fbemitter": "^3.0.0",
     "ignore": "^5.3.1",
     "resolve-from": "^5.0.0"
