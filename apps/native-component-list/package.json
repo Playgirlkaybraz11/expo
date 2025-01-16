@@ -129,7 +129,7 @@
     "lottie-react-native": "6.7.0",
     "moment": "^2.29.4",
     "path": "^0.12.7",
-    "pixi.js": "^4.6.1",
+    "pixi.js": "^5.0.0",
     "processing-js": "^1.6.6",
     "react": "19.0.0-rc-fb9a90fa48-20240614",
     "react-dom": "19.0.0-rc-fb9a90fa48-20240614",
