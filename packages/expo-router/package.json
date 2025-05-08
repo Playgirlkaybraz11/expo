@@ -97,7 +97,7 @@
   "dependencies": {
     "@expo/metro-runtime": "3.2.1",
     "@expo/server": "^0.4.0",
-    "@radix-ui/react-slot": "1.0.1",
+    "@radix-ui/react-slot": "1.1.0",
     "@react-navigation/bottom-tabs": "~6.5.7",
     "@react-navigation/native": "~6.1.6",
     "@react-navigation/native-stack": "~6.9.12",
