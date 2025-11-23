@@ -47,7 +47,7 @@
     "find-yarn-workspace-root": "~2.0.0",
     "fs-extra": "^9.1.0",
     "getenv": "^1.0.0",
-    "glob": "^10.4.2",
+    "glob": "^10.5.0",
     "jsc-safe-url": "^0.2.4",
     "lightningcss": "~1.19.0",
     "minimatch": "^3.0.4",
